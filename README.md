@@ -1,2 +1,2 @@
 # java
-sysu java
+sysu java课程
